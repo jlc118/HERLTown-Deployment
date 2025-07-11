@@ -1,0 +1,258 @@
+[
+    {
+      "Category": "Cab",
+      "Description": "You have a job so vocational rehabilitation service center will pay for the vehicle modifications so that you can drive.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your insurance changed its policy and can now upgrade you to a new wheelchair that is easier to transport.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Today has nice driving conditions.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "You hit all of the green lights which allows you to arrive at your destination 5 minutes faster.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your vehicle was upgraded to be more accessible.",
+      "Outcome": "Move up 2 spaces and receive $5 in savings"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your family member can drive you so that you can take a rest in the passenger seat.",
+      "Outcome": "Move up 5 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your friend keeps you company, which you enjoy.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your insurance now covers a secondary form of transportation allowing you to have different vehicles.",
+      "Outcome": "Move up 5 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your vehicle now has an autopilot mode which allows you to drive with less effort.",
+      "Outcome": "Receive $5 in savings and move 2 spaces"
+    },
+    {
+      "Category": "Cab",
+      "Description": "You just got a new wheelchair which is lighter than the last one, making loading it into your car much easier.",
+      "Outcome": "Move up 1 space and receive $5 in savings"
+    },
+    {
+      "Category": "Cab",
+      "Description": "Your gas station has an attendant who is nice and helps you fuel your car easily.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The driver helps buckle your wheelchair into the accessible seating area making sure you are safe before continuing the drive.",
+      "Outcome": "Move up 1 space"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The driver is knowledgeable about your disability and offers assistance.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "Someone on the bus moves from the accessible seating area to another area on the bus, allowing you to use that space.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The driver calls out all the incoming stops for you to give you time to prepare to depart from the bus.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "You see another person with disabilities in the accessible seating area and they provide you with some helpful advice.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus company has a rating system for bus drivers which prompts bus drivers to be nicer and more understanding in general.",
+      "Outcome": "Receive $5 in savings and move up 1 space"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The payment system on all public transit is down (free rides)!",
+      "Outcome": "Receive $10 in savings"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus company has upgraded all public transport with real time tracking, which prevents you from missing a bus or light rail that comes early.",
+      "Outcome": "Move up 4 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "Your wheelchair was upgraded with your new insurance plan to make it easier to use the bus.",
+      "Outcome": "Receive $15 in savings"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus is on time today!",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus company has upgraded all public transport with USB charging ports.",
+      "Outcome": "Receive $5 in savings"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus company offers discounted bus fare to disabled people regardless of type or age.",
+      "Outcome": "Receive $10 in savings"
+    },
+    {
+      "Category": "Bus",
+      "Description": "The bus company installed larger bus shelters that can accommodate you and your wheelchair.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The paratransit is on time today!",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The driver picks you up last and drops you off first.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "Paratransit offers an app with real time tracking.",
+      "Outcome": "Move up 4 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "You are the only one on the paratransit and the driver drops you off earlier than expected.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "You can use paratransit service for half price!",
+      "Outcome": "Receive $10 in savings"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The driver is your favorite and shows up on time for pick up.",
+      "Outcome": "Move up 1 space"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The driver is very experienced and gets you to your destination in record time.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The driver is your favorite and provides assistance when needed.",
+      "Outcome": "Move up 1 space"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "The paratransit vehicle was upgraded with new doors, ramps, seats, and wheelchair tie downs which help everyone get on and off the paratransit faster.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "Your wheelchair was upgraded with your new insurance plan to make using paratransit more comfortable.",
+      "Outcome": "Receive $15 in savings"
+    },
+    {
+      "Category": "Paratransit",
+      "Description": "Paratransit is now covered by the city, and you can ride for free twice a day.",
+      "Outcome": "Receive $15 in savings"
+    },
+    {
+      "Category": "Walk",
+      "Description": "You find a $5 bill on the Walk!",
+      "Outcome": "Receive $5 in savings"
+    },
+    {
+      "Category": "Walk",
+      "Description": "The city has installed accessible water fountains. You're able to have a drink, which gives you a second wind of energy.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "It is a gorgeous sunny day with a light breeze.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "The city has implemented a new safer streets initiative that prioritizes pedestrians.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "The city has improved all of its Walks making it easier for you to move around with your wheelchair.",
+      "Outcome": "Move up 4 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "The city has installed crosswalks with flashing lights to alert drivers that a pedestrian is crossing the road.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "The city has implemented a program to fix the Walk cracks and level the Walks.",
+      "Outcome": "Move up 2 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "A stranger offers to help push your mobile device up a hill and save your arms/wheelchair battery.",
+      "Outcome": "Receive $5 in savings and move up 4 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Walks are modified to be wider which accommodates you and a friend to walk beside you.",
+      "Outcome": "Receive $5 in savings and move up 2 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Slower walkers ahead of you move aside so that you can pass by easily.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Your wheelchair was upgraded with your new insurance plan.",
+      "Outcome": "Receive $15 in savings"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Your friend offers to drive so that you can rest.",
+      "Outcome": "Move up 5 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Your family member can give you a free ride!",
+      "Outcome": "Move up 5 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "Your insurance now covers a secondary form of transportation allowing you to have different wheelchairs.",
+      "Outcome": "Move up 5 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "A street vendor is giving out food samples which gives you energy to keep going.",
+      "Outcome": "Move up 3 spaces"
+    },
+    {
+      "Category": "Walk",
+      "Description": "You found an app that provides you with the most accessible route to your destination.",
+      "Outcome": "Move up 5 spaces"
+    }
+  ]
+  

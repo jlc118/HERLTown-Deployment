@@ -1,0 +1,1452 @@
+[
+    {
+        "question": "As a power wheelchair user, you find a car blocking the access aisle to your vehicle in an accessible parking space. What do you do?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Note down the license plate and bring it to the security team so they can contact the owner to move the car",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Ask a passerby to move your vehicle so you can get into the car.",
+                "value": 21
+            },
+            {
+                "token": "C.",
+                "description": "Wait until the driver of the offending vehicle returns.",
+                "value": 25
+            },
+            {
+                "token": "D.",
+                "description": "Call the police for assistance with getting access to your vehicle.",
+                "value": 23
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user transferring into your car. When you dismantle your wheelchair, one of the wheels rolls away and falls out of reach. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Drive your car to where your wheel landed and scoop it up from there.",
+                "value": 30
+            },
+            {
+                "token": "B.",
+                "description": "Wait until someone else passes by and ask them for their assistance.",
+                "value": 32
+            },
+            {
+                "token": "C.",
+                "description": "Call a friend or family member for help.",
+                "value": 25
+            },
+            {
+                "token": "D.",
+                "description": "Leave the wheel behind and submit an insurance claim when you get home to get a new wheel.",
+                "value": 13
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user and when driving on the sidewalk you realize that the curb cut is obstructed. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Try to jump down the curb with your power wheelchair.",
+                "value": 20
+            },
+            {
+                "token": "B.",
+                "description": "Ask someone around you for help.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Call a family member or friend for a ride or portable ramp.",
+                "value": 19
+            },
+            {
+                "token": "D.",
+                "description": "Find the next available curb cut.",
+                "value": 35
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user planning to take a bus to your destination. When the bus arrives, the driver says that the ramp is not functioning. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Wait for the next bus.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "The bus floor is not too high off the ground. Ask the driver and other passengers to lift you and your wheelchair onto the bus.",
+                "value": 19
+            },
+            {
+                "token": "C.",
+                "description": "Call the bus company to file a complaint.",
+                "value": 23
+            },
+            {
+                "token": "D.",
+                "description": "Challenge the bus driver to manually deploy the ramp.",
+                "value": 27
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. You get on the bus, but no one assists with securing your chair and you start to roll around. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Hold onto the bars tightly and hope that you will not roll around.",
+                "value": 29
+            },
+            {
+                "token": "B.",
+                "description": "Ask the bus driver to secure the wheelchair.",
+                "value": 39
+            },
+            {
+                "token": "C.",
+                "description": "Ask a nearby passenger for help securing the wheelchair.",
+                "value": 26
+            },
+            {
+                "token": "D.",
+                "description": "Report this issue to the bus company.",
+                "value": 6
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user, waiting at a bus stop when it begins to rain and there is no shelter at the bus stop. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Find the nearest shelter and keep an eye out for your bus to come.",
+                "value": 32
+            },
+            {
+                "token": "B.",
+                "description": "Ask a stranger to share their umbrella so you can wait in a visible area for the bus driver to see you.",
+                "value": 20
+            },
+            {
+                "token": "C.",
+                "description": "Take a taxi or private transit.",
+                "value": 18
+            },
+            {
+                "token": "D.",
+                "description": "Wait indoors and use an app to track the bus.",
+                "value": 30
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user waiting for your paratransit vehicle to arrive. 30 minutes have passed since the scheduled pick-up time with no sign of the vehicle. What do you do? ",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call the paratransit service and ask for an ETA or a new driver. ",
+                "value": 36
+            },
+            {
+                "token": "B.",
+                "description": "Continue to just wait for the vehicle.",
+                "value": 23
+            },
+            {
+                "token": "C.",
+                "description": "Call a friend or family member for a ride.",
+                "value": 21
+            },
+            {
+                "token": "D.",
+                "description": "Take a taxi or private transit.",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. You are picked up by paratransit for a doctor's appointment in an hour. The driver has many other passengers, and lets you know that you will not be dropped off in time. What did the survey say?",
+        "options": [
+        {
+            "token": "A.",
+            "description": "Call your doctor's office to let them know that you will be late, and hope that they don't cancel your appointment.",
+            "value": 37
+        },
+        {
+            "token": "B.",
+            "description": "Stay on the paratransit and do nothing, risking showing up late to your appointment.",
+            "value": 20
+        },
+        {
+            "token": "C.",
+            "description": "Call to reschedule your appointment.",
+            "value": 24
+        },
+        {
+            "token": "D.",
+            "description": "Take a taxi or private transit.",
+            "value": 19
+        }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user, and your wheelchair breaks down in the middle of the crosswalk. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Turn your power wheelchair off and back on.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Yell for nearby people to help.",
+                "value": 28
+            },
+            {
+                "token": "C.",
+                "description": "Call the manufacturer/supplier frantically.",
+                "value": 16
+            },
+            {
+                "token": "D.",
+                "description": "Call 911.",
+                "value": 21
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user and encounter residential trash cans in the middle of the sidewalk. You are unable to move them yourself. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Go back and find another way.",
+                "value": 29
+            },
+            {
+                "token": "B.",
+                "description": "Wait for a passerby and ask them to help move the trash cans.",
+                "value": 22
+            },
+            {
+                "token": "C.",
+                "description": "Go out on the street to get around the trash cans.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Knock on the front door of the residence to ask for assistance.",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. You are on a sidewalk and encounter parked vehicles that are taking up the entire sidewalk. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Go back and find another way around.",
+                "value": 33
+            },
+            {
+                "token": "B.",
+                "description": "Call a tow truck to move the vehicles out of the way.",
+                "value": 13
+            },
+            {
+                "token": "C.",
+                "description": "Go out on the street to get around the vehicles.",
+                "value": 32
+            },
+            {
+                "token": "D.",
+                "description": "Call the police for assistance in getting the vehicles moved.",
+                "value": 22
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user, and you encounter an impassable section of the sidewalk. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Go back and cross the street to use the sidewalk on the other side.",
+                "value": 38
+            },
+            {
+                "token": "B.",
+                "description": "Ask a passerby for assistance.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Call the police for assistance.",
+                "value": 16
+            },
+            {
+                "token": "D.",
+                "description": "Roll as fast as you can over the sidewalk area and hope that you do not get stuck.",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. To access the subway, you must use the elevator, but it is out of service, and the only option is to use the stairs. What do you do?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Travel to the closest accessible station.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Find an employee of the bus company and ask for help.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Call the public transit management to receive further guidance.",
+                "value": 27
+            },
+            {
+                "token": "D.",
+                "description": "Just give up and drive your wheelchair back home.",
+                "value": 16
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. You arrive at your destination and there is a step to get inside the business. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attempt to get up the step and hope you don't fall.",
+                "value": 19
+            },
+            {
+                "token": "B.",
+                "description": "Ask nearby people for help.",
+                "value": 22
+            },
+            {
+                "token": "C.",
+                "description": "Call the business and ask the manager if they have a ramp or accessible entrance.",
+                "value": 35
+            },
+            {
+                "token": "D.",
+                "description": "Go to a competing accessible business.",
+                "value": 24
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user and able to walk for short distances. You just arrived at the grocery store but discover that they do not have a ramp. The store itself is a few steps up from the street level. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Get up and carry your wheelchair up the steps.",
+                "value": 19
+            },
+            {
+                "token": "B.",
+                "description": "Ask a stranger to assist you with getting up the steps.",
+                "value": 23
+            },
+            {
+                "token": "C.",
+                "description": "Call the store manager and have a store associate assist you.",
+                "value": 30
+            },
+            {
+                "token": "D.",
+                "description": "Turn around and take your business elsewhere.",
+                "value": 28
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user with an accessible vehicle. The vehicle breaks down and needs to be towed. You can't ride in the tow truck and need to find a way home. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call an accessible taxi or private transit.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Ask the tow truck driver for help.",
+                "value": 25
+            },
+            {
+                "token": "C.",
+                "description": "Call a paratransit to pick you up and take you home.",
+                "value": 26
+            },
+            {
+                "token": "D.",
+                "description": "Call 911 for help.",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user and notice that your power wheelchair battery is low while traveling with your family. You do not have a charger with you. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Ignore the low battery and continue traveling.",
+                "value": 17
+            },
+            {
+                "token": "B.",
+                "description": "Put your chair into manual mode and have your family push you.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Only move your chair when necessary and have the chair powered off when sitting.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Go back home to charge the wheelchair.",
+                "value": 23
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. While traveling, you are unsure how accessible the public transportation system is in the area. What did the survey say about finding out about public transportation accessibility?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call the transportation customer service hotline, make inquiries, ask relevant questions, and plan a route.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Ask a stranger who looks like a local and see if they can offer any guidance.",
+                "value": 24
+            },
+            {
+                "token": "C.",
+                "description": "Ask a wheelchair user from the area to assist.",
+                "value": 28
+            },
+            {
+                "token": "D.",
+                "description": "Never leave home again.",
+                "value": 13
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user, and you are on a work trip in a new city. All of your coworkers are taking a taxi to get dinner. You are unsure if the taxi service has accessible taxis. How did respondents to the survey handle this?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Offer to arrange the taxi service so that you can ensure it is wheelchair accessible.",
+                "value": 32
+            },
+            {
+                "token": "B.",
+                "description": "Ask the travel plan coordinator to get an accessible taxi for you.",
+                "value": 30
+            },
+            {
+                "token": "C.",
+                "description": "Tell your coworkers that you must ride separately and arrange your own transportation.",
+                "value": 24
+            },
+            {
+                "token": "D.",
+                "description": "Decide not to go.",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. You hit a hole in the sidewalk causing you to be thrown out of your wheelchair. Your wheelchair remains upright, and you require assistance to get back in. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attempt to get yourself back in the wheelchair which requires a great feat of strength.",
+                "value": 30
+            },
+            {
+                "token": "B.",
+                "description": "Lay in the middle of the sidewalk, yell for help, and hope a passerby will come to your aid.",
+                "value": 28
+            },
+            {
+                "token": "C.",
+                "description": "Call 911.",
+                "value": 27
+            },
+            {
+                "token": "D.",
+                "description": "Accept your fate and just lay there reflecting about life.",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. While waiting for a paratransit vehicle, you go inside a convenience store. They call you, but your phone is muted, and they leave without you. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call the paratransit help number to see if the driver can come back.",
+                "value": 38
+            },
+            {
+                "token": "B.",
+                "description": "Ask a stranger for a lift to your destination.",
+                "value": 15
+            },
+            {
+                "token": "C.",
+                "description": "Call a taxi or private transit.",
+                "value": 28
+            },
+            {
+                "token": "D.",
+                "description": "Start rolling as fast as you can in the direction that you think the driver went in hopes of catching up to them.",
+                "value": 19
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user getting on a bus. Multiple people are blocking the designated seating areas for people with disabilities. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Maneuver your wheelchair into the middle of the aisle and just ride to your destination.",
+                "value": 23
+            },
+            {
+                "token": "B.",
+                "description": "Politely ask the other passengers to move so you can ride the bus safely.",
+                "value": 35
+            },
+            {
+                "token": "C.",
+                "description": "Ask the bus driver to tell the passengers to move so you can access the designated seats.",
+                "value": 28
+            },
+            {
+                "token": "D.",
+                "description": "Roll over the passengers' feet sitting where you should be able to sit while staring at them.",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user crossing a crosswalk. A car rolls up and waits at the stop sign but the driver impatiently honks at you. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Continue going across the cross-walk at a steady pace. No need to get involved with the driver.",
+                "value": 41
+            },
+            {
+                "token": "B.",
+                "description": "Ask another pedestrian for help crossing the crosswalk at a faster pace.",
+                "value": 25
+            },
+            {
+                "token": "C.",
+                "description": "Make note of the car's license plate number so you can report the driver to the authorities.",
+                "value": 22
+            },
+            {
+                "token": "D.",
+                "description": "Move extra slowly across the street and stare down the driver.",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user who has been out and about for many hours today. Your hands and arms are growing tired, and blisters are forming. What did the survey say to do to make the rest of the day more comfortable?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Push through the pain and buy a pair of wheelchair hand gloves to give your hands some protection later.",
+                "value": 32
+            },
+            {
+                "token": "B.",
+                "description": "Ask another pedestrian to push you and give your hands a break.",
+                "value": 21
+            },
+            {
+                "token": "C.",
+                "description": "Stop pushing and call a friend for a ride.",
+                "value": 28
+            },
+            {
+                "token": "D.",
+                "description": "Find a nice shady spot and take a nap.",
+                "value": 19
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. While grocery shopping, you notice that the joystick is not operating correctly, causing delays, and difficulty moving. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Put the chair into manual mode and ask for assistance.",
+                "value": 17
+            },
+            {
+                "token": "B.",
+                "description": "Ask a customer service associate to finish your shopping list.",
+                "value": 20
+            },
+            {
+                "token": "C.",
+                "description": "Try to reset your wheelchair by turning if off and on.",
+                "value": 37
+            },
+            {
+                "token": "D.",
+                "description": "Keep using the chair and hope no other issues arise.",
+                "value": 26
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user riding the bus. You get off 2 stops early but don’t realize until the bus has already put the ramp back in. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Ask the driver to put the ramp back out so you can get back on the bus.",
+                "value": 32
+            },
+            {
+                "token": "B.",
+                "description": "Drive to your destination on the sidewalk.",
+                "value": 29
+            },
+            {
+                "token": "C.",
+                "description": "Call a paratransit to take you to your destination.",
+                "value": 15
+            },
+            {
+                "token": "D.",
+                "description": "Wait for the next bus to get to your stop.",
+                "value": 24
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. Your current chair is three years old, and your supplier informs you that your power wheelchair is in disrepair and requires replacement. Insurance only covers a new chair every 5 years. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Self-purchase a new power wheelchair.",
+                "value": 16
+            },
+            {
+                "token": "B.",
+                "description": "Ask another wheelchair user if you can borrow one of their old ones.",
+                "value": 20
+            },
+            {
+                "token": "C.",
+                "description": "Call your insurance provider and negotiate an early replacement.",
+                "value": 33
+            },
+            {
+                "token": "D.",
+                "description": "Continue using the wheelchair and hope that it can keep going.",
+                "value": 31
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user visiting a museum. The museum has an accessible ramp, but there is a delivery truck blocking the ramp. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Wait for the delivery truck to leave.",
+                "value": 23
+            },
+            {
+                "token": "B.",
+                "description": "Ask museum staff is there is an alternate accessible entrance.",
+                "value": 30
+            },
+            {
+                "token": "C.",
+                "description": "Ask the delivery driver to move the truck.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Decide not to visit the museum and go home.",
+                "value": 13
+            }
+        ]
+    },
+    {
+        "question": "It is 4:00 pm and you call ACCESS to schedule a ride for tomorrow at 8:00 am. They responded that you called outside the 24-hour required time frame, and your morning pick-up time cannot be guaranteed. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Politely ask if there are any available alternatives or options for scheduling a ride close to your preferred time.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Inquire about the earliest available pick-up time and consider adjusting your schedule.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Contact alternative transportation options to ensure you have a backup plan.",
+                "value": 23
+            },
+            {
+                "token": "D.",
+                "description": "Speak with a supervisor or manager to explain your situation and seek assistance in securing a reliable pick-up time.",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user and just got accepted to the college of your dreams! It is a small campus, and they lack accessible entrances to some of the buildings. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attend your second-choice school because the campus is more accessible for wheelchair users.",
+                "value": 22
+            },
+            {
+                "token": "B.",
+                "description": "Enquire about online options for classes that you would be unable to attend in person.",
+                "value": 29
+            },
+            {
+                "token": "C.",
+                "description": "Appeal to the college dean in hopes that they will make their campus more accessible as dictated by the ADA.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Attend a school that is all online, so accessibility is not an issue.",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a wheelchair user with limited ambulation. You are using a restaurant bathroom with wheelchair access, but it is too narrow for a comfortable entrance with your wheelchair. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Still maneuver your wheelchair through the door, making multiple-point turns to get in and out.",
+                "value": 32
+            },
+            {
+                "token": "B.",
+                "description": "Get up and leave your wheelchair out of the stall and hope no one takes it.",
+                "value": 24
+            },
+            {
+                "token": "C.",
+                "description": "Ask the restaurant manager if there is another bathroom, such as the employee bathroom, that has a bigger doorway.",
+                "value": 31
+            },
+            {
+                "token": "D.",
+                "description": "Leave your wheelchair at the table and walk to the restroom.",
+                "value": 13
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user using the subway to get around town. As you get to the station, you realize that the turnstiles are not accessible and there is no accessible gate. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attempt to slide through the turnstile and pull your wheelchair behind you.",
+                "value": 16
+            },
+            {
+                "token": "B.",
+                "description": "Ask another passenger if they can help you through the turnstile.",
+                "value": 23
+            },
+            {
+                "token": "C.",
+                "description": "Ask a subway employee if there is an accessible entrance.",
+                "value": 37
+            },
+            {
+                "token": "D.",
+                "description": "Go to the next subway station.",
+                "value": 24
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user planning a road trip with friends. As you discuss logistics, you realize that the cargo space will not accommodate all of your equipment, and your wheelchair. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Decide it will be too much stress and not go on the trip.",
+                "value": 22
+            },
+            {
+                "token": "B.",
+                "description": "Ask your friends if they would be okay with bringing less stuff so you can travel comfortably.",
+                "value": 28
+            },
+            {
+                "token": "C.",
+                "description": "Call the car rental agency to find a vehicle that can accommodate your wheelchair along with your luggage.",
+                "value": 35
+            },
+            {
+                "token": "D.",
+                "description": "Tell your friends that you won't be able to go on the trip due to a distant uncle's wedding.",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user attending a concert on the other side of the city. You are unsure if there will be accessible public transportation to get to the venue. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Research local public transportation options.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Ask a friend or family member if they could take you to the concert.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Call for a taxi, paratransit, or private transit.",
+                "value": 24
+            },
+            {
+                "token": "D.",
+                "description": "Decide that it is too stressful and skip the concert.",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user and can walk for short distances. You work in a tall office building, and the elevator has stopped working. It will take at least one day to fix. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Ask your boss if you can work from home until the elevator is fixed.",
+                "value": 36
+            },
+            {
+                "token": "B.",
+                "description": "Ask one of your coworkers to assist you up the stairs.",
+                "value": 24
+            },
+            {
+                "token": "C.",
+                "description": "Call the building manager and insist that the elevator be fixed overnight as it prevents you from working and properly accessing the building.",
+                "value": 27
+            },
+            {
+                "token": "D.",
+                "description": "Quit your job and find someplace more accessible to work.",
+                "value": 13
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. It begins to snow, and your wheelchair becomes difficult to maneuver on the sidewalks. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Put on some warm gloves and continue to push through the snow.",
+                "value": 26
+            },
+            {
+                "token": "B.",
+                "description": "Find a shop to go in and wait for the snow to slow down.",
+                "value": 25
+            },
+            {
+                "token": "C.",
+                "description": "Ask a passerby to help push you through the snow.",
+                "value": 21
+            },
+            {
+                "token": "D.",
+                "description": "Travel to a bus stop and take a bus instead of pushing yourself.",
+                "value": 28
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user on your way to a business meeting downtown. Rain begins to pour, threatening your professional attire. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Open your umbrella and try to propel your wheelchair at the same time.",
+                "value": 27
+            },
+            {
+                "token": "B.",
+                "description": "Ask another pedestrian if they could help push you to your destination while you stay dry underneath the umbrella.",
+                "value": 20
+            },
+            {
+                "token": "C.",
+                "description": "Wait out the rain and call the people you are meeting with and ask to reschedule.",
+                "value": 24
+            },
+            {
+                "token": "D.",
+                "description": "Accept that you'll show up to the meeting soaking wet and go as fast as you can.",
+                "value": 29
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. You want to visit a famous landmark, but you are unsure if it will be wheelchair accessible.  What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Go online and see if the landmark has an accessibility page for you to research and plan ahead.",
+                "value": 36
+            },
+            {
+                "token": "B.",
+                "description": "Ask your family members to scope out the landmark ahead of time.",
+                "value": 21
+            },
+            {
+                "token": "C.",
+                "description": "Call the landmarks management office and ask about their accessibility options and potential accommodations.",
+                "value": 29
+            },
+            {
+                "token": "D.",
+                "description": "Determine that visiting the landmark is not worth the hassle.",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user making your way down the sidewalk, but many shops and restaurants have placed signs that are blocking the sidewalk and limit your ability to get around. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Try to move the signs yourself and continue on the sidewalk.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Ask another pedestrian to help you maneuver around the signs.",
+                "value": 25
+            },
+            {
+                "token": "C.",
+                "description": "Ask an employee of one of the stores to move the sign and explain that they are obstacles for people using wheelchairs.",
+                "value": 32
+            },
+            {
+                "token": "D.",
+                "description": "Return later that day with some spray paint and show the restaurants and shops who's boss.",
+                "value": 12
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user moving along the sidewalk when a large group of people are moving the other way towards you. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Slow down and try to make the pass as easy as possible for everyone.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Stop moving and allow the pedestrians to move by you first.",
+                "value": 29
+            },
+            {
+                "token": "C.",
+                "description": "Ask one of the pedestrians to help you get by them so that they can continue walking together.",
+                "value": 19
+            },
+            {
+                "token": "D.",
+                "description": "Speed up your pace while moving into the center of the sidewalk and hope they move over. Otherwise, you will bulldoze them.",
+                "value": 17
+            }
+        ]
+    },
+    {
+        "question": "It is a snowy day, and your accessible taxi has brought you to the front of the movie theater in your power wheelchair. You notice that snow is piled up on the curb cut leading to the main entrance. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attempt to navigate through the piled-up snow using your power wheelchair.",
+                "value": 21
+            },
+            {
+                "token": "B.",
+                "description": "Wait for assistance from someone nearby to help you clear the snow.",
+                "value": 19
+            },
+            {
+                "token": "C.",
+                "description": "Contact the movie theatre staff to request assistance in clearing the curb cut.",
+                "value": 28
+            },
+            {
+                "token": "D.",
+                "description": "Find an alternative entrance with clear access to avoid the snow pile.",
+                "value": 32
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user trying to find a parking space in the city, but all of the accessible spaces are blocked by outdoor seating for restaurants. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Submit a complaint to the city and request new accessible spots or removal of the blockages.",
+                "value": 25
+            },
+            {
+                "token": "B.",
+                "description": "Order takeout and ask them to bring it out to the car for you.",
+                "value": 27
+            },
+            {
+                "token": "C.",
+                "description": "Park but take up two spots to ensure enough space.",
+                "value": 30
+            },
+            {
+                "token": "D.",
+                "description": "Decide to give up and just go home.",
+                "value": 18
+            }
+        ]
+    },
+    {
+        "question": "The paratransit has dropped you off at your physician's office, which is in a 10-story high-rise. The automatic door opener is malfunctioning, and the call button outside the building is located out of reach for you. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Attempt to find an alternative entrance with a functioning automatic door opener.",
+                "value": 22
+            },
+            {
+                "token": "B.",
+                "description": "Wait for someone passing by to assist you in reaching the call button.",
+                "value": 25
+            },
+            {
+                "token": "C.",
+                "description": "Use your mobile phone to call the physician's office and inform them about the situation.",
+                "value": 31
+            },
+            {
+                "token": "D.",
+                "description": "Look for building staff or security personnel to seek assistance with the malfunctioning door opener.",
+                "value": 22
+            }
+        ]
+    },
+    {
+        "question": "You drive your friends in your car with hand controls to a restaurant and they only have valet parking. The valet informs you that they can't park your car as it has hand controls. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Cancel your reservation and go to another restaurant.",
+                "value": 23
+            },
+            {
+                "token": "B.",
+                "description": "You leave and file a complaint and put a bad review on social media sites.",
+                "value": 18
+            },
+            {
+                "token": "C.",
+                "description": "You attempt to convince the valet to make an exception and let you park your own car.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "You explain to the valet how the hand controls function and attempt to convince them to park your car.",
+                "value": 25
+            }
+        ]
+    },
+    {
+        "question": "You are a wheelchair user. You are in an unfamiliar area of the city and are trying to get home, but you are unsure where to go to access public transportation. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Persevere and find the best route on your own.",
+                "value": 20
+            },
+            {
+                "token": "B.",
+                "description": "Look around at local shops or popular destinations to see if they have public transport information.",
+                "value": 22
+            },
+            {
+                "token": "C.",
+                "description": "Use a map on your phone to try and decipher the best route from your current location.",
+                "value": 35
+            },
+            {
+                "token": "D.",
+                "description": "Call the transportation authority for instructions and better guidance.",
+                "value": 23
+            }
+        ]
+    },
+    {
+        "question": "You are a wheelchair user, and you arrive at a shop and observe that the sidewalks are not wheelchair accessible. What did the survey say about getting into the store?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Contact the city to report the inaccessible sidewalk.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Ask a stranger for assistance to see if they can help you get over the curb and into the store.",
+                "value": 29
+            },
+            {
+                "token": "C.",
+                "description": "Contact the store's owner and tell them you will file an ADA complaint if they don't get the situation resolved within 90 days.",
+                "value": 25
+            },
+            {
+                "token": "D.",
+                "description": "Contact the construction company who built your friend's store front and demand that they shave down the sidewalk immediately",
+                "value": 15
+            }
+        ]
+    },
+    {
+        "question": "You are a manual wheelchair user. You notice that your city has curb cuts and accessible sidewalks but there are some with very steep slopes that are very difficult to navigate. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "See if your insurance can upgrade your wheelchair to provide mobility assistance to you when you encounter these situations.",
+                "value": 20
+            },
+            {
+                "token": "B.",
+                "description": "Contact your local lawmakers and bring this gap in policy to their attention.",
+                "value": 30
+            },
+            {
+                "token": "C.",
+                "description": "Start a petition to make the city sidewalks more accessible.",
+                "value": 22
+            },
+            {
+                "token": "D.",
+                "description": "Get assistance when going down the steeper sidewalks.",
+                "value": 28
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. You arrive at an establishment and the accessible parking spaces are taken by cars without ADA plates. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call a tow truck to move the vehicle.",
+                "value": 16
+            },
+            {
+                "token": "B.",
+                "description": "Take down the license plate number and take a picture to report the violation.",
+                "value": 26
+            },
+            {
+                "token": "C.",
+                "description": "Go into the establishment and see if they can call the person to get them to move the vehicle.",
+                "value": 33
+            },
+            {
+                "token": "D.",
+                "description": "Wait for them to come back out, ask them to move their vehicle and explain the importance of leaving handicap accessible parking spots for those who need them.",
+                "value": 25
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user out of town for a conference that’s spread out around a large hotel. At the end of the day, your battery is running very low, but you want to go out to see the nightlife. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Go out anyway and risk your batteries dying.",
+                "value": 18
+            },
+            {
+                "token": "B.",
+                "description": "Charge your batteries as much as possible before going out later.",
+                "value": 35
+            },
+            {
+                "token": "C.",
+                "description": "Decide just to go back to your hotel room.",
+                "value": 22
+            },
+            {
+                "token": "D.",
+                "description": "Decide the one place you really want to see and take an accessible taxi there.",
+                "value": 25
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user out with friends on St. Patrick’s Day. You lost track of time and realize that you missed the last bus to take you home. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call an accessible taxi.",
+                "value": 35
+            },
+            {
+                "token": "B.",
+                "description": "Call 911 to ask for assistance.",
+                "value": 16
+            },
+            {
+                "token": "C.",
+                "description": "Attempt to get home on the sidewalks.",
+                "value": 27
+            },
+            {
+                "token": "D.",
+                "description": "Find a place to stay overnight where you are.",
+                "value": 22
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user who usually drives a van with high-tech hand controls, but your car was recently in an accident and needs to be replaced. There isn’t a bus stop close to your house, and there are hardly any sidewalks. What did the survey say about how do you get to work?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Sign up for paratransit and use it every day.",
+                "value": 27
+            },
+            {
+                "token": "B.",
+                "description": "Request to work from home until your vehicle is replaced.",
+                "value": 31
+            },
+            {
+                "token": "C.",
+                "description": "Drive your wheelchair on the street to the bus stop.",
+                "value": 22
+            },
+            {
+                "token": "D.",
+                "description": "Rent an accessible van and have someone drive you to work.",
+                "value": 20
+            }
+        ]
+    },
+    {
+        "question": "You are a power wheelchair user. The ramp in your accessible van has stopped working and refused to open when you arrived at work. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Drive to your nearest mechanic to see if they could help.",
+                "value": 18
+            },
+            {
+                "token": "B.",
+                "description": "Drive to your nearest accessible vehicle supplier to see if they can fix it.",
+                "value": 22
+            },
+            {
+                "token": "C.",
+                "description": "Call someone from your office to get assistance to get you out of the vehicle by unfolding the ramp manually.",
+                "value": 31
+            },
+            {
+                "token": "D.",
+                "description": "Keep switching your vehicle on or off again and hope that your ramp works again.",
+                "value": 29
+            }
+        ]
+    },
+    {
+        "question": "You wake up in the morning and realize your driveway is snowed in! Your vehicle is covered in snow, and you have a doctor’s appointment scheduled for that morning. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Call the company that clears your driveway and ask them if they will be there within 30 minutes.",
+                "value": 19
+            },
+            {
+                "token": "B.",
+                "description": "Call a neighbor and ask them to clear your driveway.",
+                "value": 20
+            },
+            {
+                "token": "C.",
+                "description": "Call the doctor’s office and ask if the appointment can be conducted online.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Call the medical office and reschedule.",
+                "value": 26
+            }
+        ]
+    },
+    {
+        "question": "You parked your car in the sun for a few hours, and it is too hot to transfer into. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Use the remote start function to start the car and turn on the air conditioning.",
+                "value": 34
+            },
+            {
+                "token": "B.",
+                "description": "Open the door and wait until the inside of the car cools down.",
+                "value": 33
+            },
+            {
+                "token": "C.",
+                "description": "Wait until the sun sets and the car cools down.",
+                "value": 19
+            },
+            {
+                "token": "D.",
+                "description": "Take another means home and return in the evening when the car has cooled down.",
+                "value": 14
+            }
+        ]
+    },
+    {
+        "question": "You just traded-in your old accessible van for a brand-new van. You call a shop to have mechanical hand controls installed, and the shop informs you it will take 4 to 6 weeks. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Find another shop to install the hand controls with a faster turnaround time.",
+                "value": 31
+            },
+            {
+                "token": "B.",
+                "description": "Rent a van with mechanical hand controls until your new van is ready.",
+                "value": 27
+            },
+            {
+                "token": "C.",
+                "description": "Ask friends and family to drive you around until your van is ready.",
+                "value": 25
+            },
+            {
+                "token": "D.",
+                "description": "Stay at home until your vehicle is ready and get household needs delivered.",
+                "value": 17
+            }
+        ]
+    },
+    {
+        "question": "You are attending an event and notice that a new parking kiosk has been installed that is not reachable from wheelchair height. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Leave and let your friends/colleagues know you could not pay for parking.",
+                "value": 18
+            },
+            {
+                "token": "B.",
+                "description": "Ask a passerby to pay using your card.",
+                "value": 22
+            },
+            {
+                "token": "C.",
+                "description": "Call a friend or colleague attending the event to come out and assist you.",
+                "value": 34
+            },
+            {
+                "token": "D.",
+                "description": "Attend the event and take your chances that you don't get fined.",
+                "value": 26
+            }
+        ]
+    },
+    {
+        "question": "You have an appointment for routine maintenance on your accessible van. When you arrive at the shop, the mechanic informs you that it might take him the entire day to fix everything. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Settle in to wait all day and hope it doesn't take that long.",
+                "value": 20
+            },
+            {
+                "token": "B.",
+                "description": "Reschedule the appointment to another day.",
+                "value": 29
+            },
+            {
+                "token": "C.",
+                "description": "Ask friends or family to drop off the vehicle and pick it up later.",
+                "value": 25
+            },
+            {
+                "token": "D.",
+                "description": "Find another shop that provides more timely service.",
+                "value": 26
+            }
+        ]
+    },
+    {
+        "question": "You are attending a work event and when you arrive at the parking garage, you notice that the accessible parking spots have been replaced by EV spaces. The accessible spots are now located in a dark and damp corner of the garage. What did the survey say?",
+        "options": [
+            {
+                "token": "A.",
+                "description": "Park in the dark and damp accessible spot and take your chances.",
+                "value": 30
+            },
+            {
+                "token": "B.",
+                "description": "Park in an EV spot and leave a note.",
+                "value": 27
+            },
+            {
+                "token": "C.",
+                "description": "Leave and tell your supervisor that no safe parking was available.",
+                "value": 21
+            },
+            {
+                "token": "D.",
+                "description": "Leave and file an ADA complaint that there was no compliant parking available.",
+                "value": 22
+            }
+        ]
+    }
+]

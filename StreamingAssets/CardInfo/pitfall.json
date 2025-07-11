@@ -1,0 +1,378 @@
+[
+    {
+        "Category": "Car",
+        "Description": "There's no available accessible parking space, you will have to find somewhere else to park.",
+        "Outcome": "Go back 4 spaces"
+    },
+    {
+        "Category": "Car",
+        "Description": "The access aisle of the accessible parking is blocked, you will have to park somewhere else.",
+        "Outcome": "Go back 4 spaces"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your fuel tank is on empty, and you need to get gas, but there is no attendant available to help you.",
+        "Outcome": "Pay $10"
+    },
+    {
+        "Category": "Car",
+        "Description": "It is raining outside, and you do not want to get out if your vehicle and into the pouring rain.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Car",
+        "Description": "You really want to get an electric minivan, but the manufacturers can’t modify the van to make it accessible.",
+        "Outcome": "Go back 5 spaces"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your car has a flat tire, and you can’t change it by yourself.",
+        "Outcome": "Pay $50"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your modified van will be in the shop for a few days.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your vehicle has broken down. You will have to wait for it to be fixed or get out.",
+        "Outcome": "Return to the starting point"
+    },
+    {
+        "Category": "Car",
+        "Description": "Gas prices are rising for your accessible minivan.",
+        "Outcome": "Pay $10"
+    },
+    {
+        "Category": "Car",
+        "Description": "Due to the inclement weather, you cannot drive on the roads.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your shoulders are hurting, you'll have to stop and rest.",
+        "Outcome": "Go back 5 spaces"
+    },
+    {
+        "Category": "Car",
+        "Description": "You've got pulled over and don't have your driver's license",
+        "Outcome": "Pay $10"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your wheelchair was damaged, and you can't use the docking system.",
+        "Outcome": "Pay $25"
+    },
+    {
+        "Category": "Car",
+        "Description": "It is raining outside which makes it hard for you to drive. You pull over on the side of the road and decide to wait out the rain.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your vehicle malfunctions and needs routine maintenance.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your body is sore from doing too much physical activity yesterday, and you can't transfer.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Car",
+        "Description": "You forgot to bring your driver's license with you.",
+        "Outcome": "Go back to the starting point (no refunds!)"
+    },
+    {
+        "Category": "Car",
+        "Description": "Your vehicle is being modified to be wheelchair accessible and is running far behind schedule.",
+        "Outcome": "Go back 5 spaces"
+    },
+    {
+        "Category": "Car",
+        "Description": "Due to the inclement weather, you cannot drive on the roads.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Due to the heavy rain, it is impossible to get to the bus station.",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Because of negative public perception, you don't want to take bus right now.",
+        "Outcome": "Go back 4 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Bus routes have changed due to local road construction, and the new bus stop is not accessible.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Bus routes have changed due to local road construction making your bus ride longer",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus ramp has stopped working and you cannot get on or off the bus.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus has broken down. You will have to wait for it to be fixed or get off here.",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus is stuck in traffic and running late.",
+        "Outcome": "Go back 3 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus is crowded, and there are no wheelchair accessible space available.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Bus",
+        "Description": "You forgot your bus pass at home.",
+        "Outcome": "Go back to the starting point"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Due to the bad weather, you cannot go anywhere!",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus hits every red light.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Bus",
+        "Description": "You get on the wrong bus and only realize your mistake after the doors have closed.",
+        "Outcome": "Pay $5"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus came early and you missed it.",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Your employer no longer provides you with a free bus pass.",
+        "Outcome": "Pay $5"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Your bus card is not working, and the bus driver kicks you off.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus came early and you missed it.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus driver is rude and seems annoyed at your disability.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The passengers stare at you and make you uncomfortable.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Bus",
+        "Description": "The bus fares have been raised.",
+        "Outcome": "Pay $5"
+    },
+    {
+        "Category": "Bus",
+        "Description": "Bus routes have changed due to local road construction, and the new bus stop is not accessible.",
+        "Outcome": "Go back 3 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The driver is late for pick up.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The driver is stuck in traffic and the paratransit trip takes much longer than expected.",
+        "Outcome": "Go back 4 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "It is raining and you have to wait outside, which makes you wet and uncomfortable.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "You are running behind schedule and skip some of your errands to be ready for the paratransit to come pick you up.",
+        "Outcome": "Pay $25"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The driver is rude and provides assistance begrudgingly.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The city no longer subsidizes paratransit.",
+        "Outcome": "Pay $25"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The paratransit is crowded, and you have to sit in the back which is the furthest from the heating/cooling vents.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The paratransit is running late. You will have to keep waiting or find another way.",
+        "Outcome": "Go back 3 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "Due to the bad weather, you cannot go anywhere!",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "Your wheelchair was damaged by the paratransit.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "You are no longer eligible for paratransit.",
+        "Outcome": "Pay $25"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The paratransit vehicle hits every red light.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "You have a lot of things to carry and can’t get on the paratransit because you have exceeded the baggage limit.",
+        "Outcome": "Go back 3 spaces"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "Your paratransit breaks down and your pickup time is delayed.",
+        "Outcome": "Skip your next turn"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The person sitting next to you is talking on speaker phone quite loudly which prevents you from resting on the ride.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The paratransit vehicle hits every red light.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Paratransit",
+        "Description": "The paratransit is runnint late. You will have to keep waiting or find another way.",
+        "Outcome": "Go back 3 space"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Due to the extreme weather conditions, you need to slow down and find shelter immediately.",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Walk",
+        "Description": "The sidewalk is blocked by construction.",
+        "Outcome": "Go back 4 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "The curb cut is blocked and not accessible.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "There is no Sidewalk. You need to go back and find another way.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Walk",
+        "Description": "It just started to rain, and you must find shelter immediately.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your arms are tired from using your wheelchair and you must rest.",
+        "Outcome": "Go back 3 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your wheelchair has a flat tire, and you must wait for help.",
+        "Outcome": "Pay $5"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your power wheelchair is on low battery, and you must find a place for it to charge immediately.",
+        "Outcome": "Go back 3 spaces and skip your next turn"
+    },
+    {
+        "Category": "Walk",
+        "Description": "It is a hot day, and the heat fatigues you, and you must find shelter immediately.",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Walk",
+        "Description": "The Sidewalk is bumpy and extremely uncomfortable.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Due to the thunderstorm, you cannot go anywhere!",
+        "Outcome": "Return to your previous position"
+    },
+    {
+        "Category": "Walk",
+        "Description": "You're not feeling well, you'll have to stop and rest.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "A stranger pushes your wheelchair without your consent.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your wheelchair was damaged.",
+        "Outcome": "Go back 1 space"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your insurance no longer covers your wheelchair.",
+        "Outcome": "Pay $15"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your wheelchair malfunctions and needs routine maintenance.",
+        "Outcome": "Pay $10"
+    },
+    {
+        "Category": "Walk",
+        "Description": "The curb cut is blocked and not accessible.",
+        "Outcome": "Go back 2 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "There is no sidewalk. Youneed to go back and find another way.",
+        "Outcome": "Go back 1 spaces"
+    },
+    {
+        "Category": "Walk",
+        "Description": "Your arms are tired from using your wheelchair and your must rest.",
+        "Outcome": "Go back 3 spaces"
+    }
+]
+  
